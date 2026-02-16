@@ -1,5 +1,7 @@
 # Hotel Booking Analytics – Power BI Project  
 
+![Dashboard](/IMG_0562.png)
+
 ## Project Overview  
 
 This project presents a Power BI dashboard built using a publicly available Kaggle dataset:  

@@ -1,6 +1,6 @@
 # Hotel Booking Analytics – Power BI Project  
 
-![Dashboard](/IMG_0562.png)
+![Dashboard](/Assets/Dashboard.png)
 
 ## Project Overview  
 

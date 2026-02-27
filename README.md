@@ -9,11 +9,15 @@ https://www.kaggle.com/datasets/mojtaba142/hotel-booking
 
 The purpose of this project was not to build a highly complex analytical solution, but to demonstrate **how I approach a Power BI project end-to-end**:
 
-- understanding and redefining business metrics in a new domain
-- designing a clean dimensional data model
-- performing structured ETL in Power Query
-- implementing semantically correct DAX measures
-- delivering a clear, decision-oriented dashboard
+✅ understanding and redefining business metrics in a new domain
+
+✅ designing a clean dimensional data model
+
+✅ performing structured ETL in Power Query
+
+✅ implementing semantically correct DAX measures
+
+✅ delivering a clear, decision-oriented dashboard
 
 The dataset itself is relatively simple. The value of this project lies in the methodology and analytical discipline rather than dataset complexity.
 

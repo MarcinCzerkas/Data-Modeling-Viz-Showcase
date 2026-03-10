@@ -166,3 +166,5 @@ This project serves as a practical showcase of how I work with Power BI, specifi
 - clear and coherent data storytelling
 
 The dataset is intentionally simple. The objective was to provide a transparent example of methodology rather than technical complexity.
+
+![](https://komarev.com/ghpvc/?username=MarcinCzerkas&style=flat-square&label=VIEWS&style=pixel)
